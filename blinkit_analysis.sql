@@ -1,3 +1,10 @@
+
+/* =========================================================
+   Blinkit Sales Data Analysis
+   Tools: SQL Server
+   ========================================================= */
+
+
 -- See all the data imported:
 SELECT * FROM blinkit_data
 
